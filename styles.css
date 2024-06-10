@@ -1,0 +1,35 @@
+body { font-family: "Times New Roman", serif;
+	background-color: #e4c2ff; }
+
+header { background-image: url(../images/directorybackground.png);
+	background-size: cover;
+	background-attachment: fixed;}
+	
+h1 { font-family: "Bookman", serif;
+	color: #8b769c;
+	font-weight: bold;	
+	text-align: center; }
+
+h2 { font-family: "Bookman", serif;
+	color: #8b769c; }
+
+h3 { font-family: "Bookman", serif;
+	color: #8b769c; }
+
+h4 { font-family: "Bookman", serif;
+	color: #A67C00;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center; }
+
+p { color: #2B2D42;
+	font-size: 20px;}
+
+ul { color: Black;
+	font-size: 20px; 
+	font-weight: normal;
+	line-height: 1.5em;}
+	
+th { color: Black;
+	font-size: 20px; }
+
